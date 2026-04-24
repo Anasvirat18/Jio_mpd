@@ -1,12 +1,24 @@
 #EXTM3U
 # Source: https://fcapi.amitbala1993.workers.dev/
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/142054_6045_NP-W_VANW_fc-web.jpg" group-title="Fancode",ICC Women's T20I Challenge Trophy, 2026 Nepal Women | Nepal Women vs Vanuatu Women
-https://in-mc-flive.fancode.com/mumbai/142054_english_hls_06480e452850891_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777108768~_GO=Generated~acl=/mumbai/142054_english_hls_06480e452850891_1ta-di_h264/*~Signature=AVFFTBp2xVAZ8xQvQGLLlMqivGjRGJPJ54f5NMRrD1WR4LvRsfl0LWYJMW_GqI1QrX2ZJqYG-1Y1hk2-mLkqHbFesx8I
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg" group-title="Fancode",ICC Women's T20I Challenge Trophy, 2026 Italy Women | Italy Women vs Usa Women
+https://in-mc-flive.fancode.com/mumbai/142055_english_hls_9e7799545155335_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777114333~_GO=Generated~acl=/mumbai/142055_english_hls_9e7799545155335_1ta-di_h264/*~Signature=AVFFTBoh1Dp8IZculWTbNzu8toX8XFQzY6UecIa7pxbEzhMKb5NS1yVn5UtAlERcfxJGzw3RkUPoF680a_RkWESeImkM
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140941_5802_MAC_WEL_fc-web.jpg" group-title="Fancode",A League 2025-26 Macarthur | Macarthur vs Wellington Phoenix
+https://in-mc-flive.fancode.com/mumbai/140941_english_hls_1103ad390889647_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777114351~_GO=Generated~acl=/mumbai/140941_english_hls_1103ad390889647_1ta-di_h264/*~Signature=AVFFTBpzzIKmHIMPKj-67Bmwy9iLUt2Hgiwz0DMNSIP2blaKLP8ODEkfg658h2xbMzAizEyms0sSktSvq7MMXf5Ra1gB
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="Fancode",ESTRELLA GALICIA 0,0 GRAND PRIX OF SPAIN 2026 Day 1 Circuito de Jerez - | Ángel vs Nieto
-https://in-mc-flive.fancode.com/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777108785~_GO=Generated~acl=/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/*~Signature=AVFFTBoAgK70982nEx47BtT9HEXeLxDyCFlyZckYHm7qvGGiBttAH6CC7s49tUxxC36PI1WXzUgycJ0W8sYZYwUVhLYF
+https://in-mc-flive.fancode.com/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777114369~_GO=Generated~acl=/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/*~Signature=AVFFTBp05LBQoi0iXb3Zbx2KlQ44fq_n1hrKRRIB0wAKBu51At0Zd53qCOEOgdnst6mi2f0h1OspAEkD4FSLJUg8mDUP
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Fancode",ATP Masters Mutua Madrid Open 2026 Day 3 - Main Feed | Madrid, vs Spain
-https://in-mc-flive.fancode.com/mumbai/141856_english_hls_77d920a64816841_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777108803~_GO=Generated~acl=/mumbai/141856_english_hls_77d920a64816841_1ta-di_h264/*~Signature=AVFFTBr06kYx1bMwwSHUxEU1_gbots6E_wB8Y9q27wiG6ZAYGbq5FsxisYAE7vbYFUOb31wOwjzdfS_ODwW7am9cbrcN
+https://in-mc-flive.fancode.com/mumbai/141856_english_hls_77d920a64816841_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777114387~_GO=Generated~acl=/mumbai/141856_english_hls_77d920a64816841_1ta-di_h264/*~Signature=AVFFTBq6_-DL3J9-U5d9wdaNKzhCyLmtkJIyyn8m2C0Wn0DOJJxTtJa8cTEZuS_RN7hO34spJQj_gK3yy7QXmR-b3LoD
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Fancode",ATP Masters Mutua Madrid Open 2026 Day 3 - Court 4 Madrid | Live Stream
+https://in-mc-flive.fancode.com/mumbai/142276_english_hls_e849ee830481582_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777114405~_GO=Generated~acl=/mumbai/142276_english_hls_e849ee830481582_1ta-di_h264/*~Signature=AVFFTBoeVmFBgjGyJrflCqcFCkWt7vn9mWxFwulYs6_MvcwGP_X17cAbf7qTFxgb8GnvKpQVjJ4hlrJmIiA4Wk68lPQP
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png" group-title="Fancode",DTM 2026 Day 1 - Red Bull Ring Red | Bull vs Ring
+https://in-mc-flive.fancode.com/mumbai/142277_english_hls_886cce7d5c49249_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1777114423~_GO=Generated~acl=/mumbai/142277_english_hls_886cce7d5c49249_1ta-di_h264/*~Signature=AVFFTBrZfhugnnNB7v5YHiZKUaSjS6iJhgJFmvDSAkCDdmPs3sCdMsJwWJ6tvtmMrP6PvCD6TQqQ4gTeICXHj47bByMM
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="Fancode",ATP Masters Mutua Madrid Open 2026 Day 3 - Arantxa Sanchez Stadium | Madrid, vs Spain
+https://in-mc-flive.fancode.com/mumbai/141857_english_hls_c6424b1ae513458_1ta-di_h264/1080p.m3u8?hdntl=Expires=1777114441~_GO=Generated~acl=/mumbai/141857_english_hls_c6424b1ae513458_1ta-di_h264/*~Signature=AVFFTBrQuWdEQM75sOE8MfVIr_yR9mBAlYvH_0ahYIUZtIj7pEiHD_j8IuHSd4ApVCsX-YZdCW8B6vh90RXw8TQQlNIK
 
